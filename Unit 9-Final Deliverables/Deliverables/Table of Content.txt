@@ -1,0 +1,63 @@
+*****************************************************Table of Content*****************************************************
+
+***Updated WBS + Gantt chart (.mpp): Updated WBS to reflect current project status.
+
+***Project Management Project: Software Development and Management Frameworks (.pdf): I added links to access the Lucid Chart templates I created, and incase they don't work, I have added a screenshot for each diagram created. Use the outline to easily locate document in the paper; for templates and checklists they are arranged in alphabetical order to simplify search.
+
+***Outline  + Documents Titles
+
+1.Introduction: Overview and Justification
+
+2.Standard Procedures
+
+ 2.1 Section I: Project Management Processes
+    2.1.1 Project Initiation SOP
+    2.1.2 Project Planning SOP
+    2.1.3 Execution SOP
+    2.1.4  Monitoring and Controlling SOP
+    2.1.5 Project Closure SOP
+
+ 2.2 Section II: Process Development
+    2.2.1 Requirements Gathering SOP
+    2.2.2 SDLC SOP
+    2.2.3 Testing and QA SOP
+    2.2.4 CI/CD SOP
+    
+ 2.3 Section III: Additional required Documents
+
+    2.3.1 DevSecOps SOP
+    2.3.2 Cloud Native Development SOP
+    2.3.3 AI/ML Model Integration SOP
+    2.3.4 Post Development and Deployment SOP
+    2.3.5 Change Management SOP
+    2.3.6 Incident Management SOP
+
+3.Guidelines
+
+ 3.1 AI/ML Integration Guidelines
+ 3.2 CI/CD Best Practices Guidelines
+ 3.3 Cloud Native Development Guidelines
+ 3.4 Code quality Guidelines
+ 3.5 DevSecOps Best Guidelines
+ 3.6 General Project Management Guidelines
+ 3.7 User Acceptance Testing (UAT) Guidelines
+
+4.Templates(Including Diagrams) and Forms
+
+There is over 25 templates documents created;
+For the WBS +Gantt template, I have also added it separately as a .mpp document
+
+5.Checklists
+
+There is about 15 checklists created
+
+6.Implementation within the business
+
+ 6.1 Adoption Plan
+ 6.2 Onboarding Guide for New Team Members
+ 6.1 Training Materials
+ 6.2 Training Plan
+
+7.References
+
+	

@@ -1,0 +1,42 @@
+********************************Table of Content***********************************
+
+Unit 1 Folder:
+             Project Concept Document
+
+Unit 2 Folder:
+             Project Charter
+             Project Scope Statement
+
+Unit 3 Folder:
+             Project WBS Schedule
+
+Unit 4 Folder:
+             Project Risk Assessment
+             Project WBS Schedule Update
+
+Unit 5 Folder:
+             Budget and Communication
+
+Unit 6 Folder:
+             Communication Document
+             Project WBS Schedule Update
+
+Unit 7 Folder:
+             Product Progress Presentation
+             Product Rough Draft
+             Project WBS Schedule Update
+
+Unit 8 Folder:
+             Project Execution and Communications (Change Request)
+             Project WBS Schedule Update
+
+             
+Unit 9 Folder:
+             Deliverables: a table of content (make sure to read the table of content first) and the deliverables
+             Project WBS Schedule Update
+
+Unit 10 Folder:
+              Status Report
+              Project WBS Schedule Update
+
+              
