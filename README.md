@@ -4,12 +4,12 @@ In addition to the project deliverables, this repository includes different proj
 Overall, this repository highlights my project management skills and the application of theoretical knowledge to a practical scenario.<br>
 ## Understanding the repository structure
 Each unit focuses on a specific phase or aspect of the project, demonstrating my skills and competencies in project management, execution, and documentation. <br>
-Make sure to check out the table of content file: https://github.com/Celiakamana/Capstone-SOP-creation/blob/main/Table%20of%20content.txt, to get an undertanding of what documents are in each unit folder.
+Make sure to check out the table of content file: https://github.com/Celiakamana/Capstone-SOP-creation/blob/main/Table%20of%20content.txt , to get an undertanding of what documents are in each unit folder.
 ## Usage
 This repository serves as:
 - A portfolio item to showcase my expertise in project management and execution.
 - A resource for reviewing the lifecycle of a well-documented project.
 ## Contact Information
-For any questions or further information, feel free to reach out: Kamanacelia@gmail.com
+For any questions or further information, feel free to reach out: Kamanacelia@gmail.com <br>
 Thank you for visiting my repository!
 
